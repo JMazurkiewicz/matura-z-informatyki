@@ -1,0 +1,7 @@
+*.obj
+*.exe
+
+*.o
+*.out
+
+[Bb]uild
